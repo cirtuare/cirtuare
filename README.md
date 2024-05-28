@@ -18,8 +18,7 @@
   Civil and Environmental Engineering 23'
 
 ## Contact
-- [GMAIL](cirtuare@gmail.com)
-- [SNUMAIL](cirtuare@snu.ac.kr)
+  cirtuare@gmail.com
 
 
 <!--
