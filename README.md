@@ -17,6 +17,11 @@
   #### Seoul National University
   Civil and Environmental Engineering 23'
 
+## Contact
+- [GMAIL](cirtuare@gmail.com)
+- [SNUMAIL](cirtuare@snu.ac.kr)
+
+
 <!--
 **cirtuare/cirtuare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
