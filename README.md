@@ -9,16 +9,16 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
 ## Experiences
-- 2024.4 ~ [식샤](https://github.com/wafflestudio/Siksha-Renewal-iOS) iOS 개발 파트 
-- 2024.3 ~ [NOW SOPT 34기](https://github.com/NOW-SOPT-iOS-Part/LeeSumin-assignment) iOS
-- 2023.8 ~ 2024.1. [와플스튜디오 21.5기](https://github.com/wafflestudio/seminar-2023) iOS
+- 2024.4. ~ [식샤](https://apps.apple.com/kr/app/%EC%8B%9D%EC%83%A4-%EC%84%9C%EC%9A%B8%EB%8C%80%ED%95%99%EA%B5%90-%EC%8B%9D%EB%8B%A8-%EC%95%B1/id1032700617) iOS 개발 파트
+- 2024.3. ~ [NOW SOPT 34기](https://github.com/NOW-SOPT-iOS-Part/LeeSumin-assignment) iOS
+- 2023.8. ~ 2024.1. [와플스튜디오 21.5기](https://github.com/wafflestudio/seminar-2023) iOS
 
 ## Education
   #### Seoul National University
   Civil and Environmental Engineering 23'
 
 ## Contact
-  cirtuare@gmail.com
+  📧 cirtuare@gmail.com
 
 
 <!--
