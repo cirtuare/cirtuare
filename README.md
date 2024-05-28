@@ -1,13 +1,13 @@
 ## Sumin Lee 이수민
 
 ## Skill
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=ios&logoColor=##000000">
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=swift&logoColor=#F05138">
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=uikit&logoColor=#2396F3">
+<img src="https://img.shields.io/badge/iOS-#000000?style=for-the-badge&logo=ios&logoColor=black">
+<img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=swift&logoColor=black">
+<img src="https://img.shields.io/badge/UIKit-#2396F3?style=for-the-badge&logo=uikit&logoColor=black">
 
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=python&logoColor=#3776AB">
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=c&logoColor=#A8B9CC">
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=cplusplus&logoColor=#00599C">
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 ## Experience
 
 
