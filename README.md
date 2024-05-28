@@ -1,4 +1,10 @@
-## Sumin
+## Sumin Lee 이수민
+
+## Skill
+
+## Experience
+
+
 
 <!--
 **cirtuare/cirtuare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
