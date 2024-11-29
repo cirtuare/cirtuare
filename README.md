@@ -2,24 +2,23 @@
 
 ### 🍎 iOS Developer 
 
-[![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cirtuare)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/cirtuare"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 ## 🍓 Skills
 <div align="left">
 	<img src="https://img.shields.io/badge/iOS-DC143C?style=flat&logo=ios&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=black">
 	<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=black">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black"> 
 </div>
 
-<div align="left">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black"> 
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> 
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-</div>
 <br/>
 
 ## 🍓 Experiences
@@ -31,7 +30,7 @@
 <br/>
 
 ## 🍓 Contact
-  📧 cirtuare@gmail.com
+  📧 cirtuare@snu.ac.kr
 
 
 <!--
