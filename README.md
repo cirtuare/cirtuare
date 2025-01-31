@@ -2,21 +2,22 @@
 
 ### 🍎 iOS Developer 
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/cirtuare"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cirtuare&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cirtuare"
+    width="600"
+    height="120"
+  />
 </a>
-
+  
 
 ## 🍓 Skills
 <div align="left">
 	<img src="https://img.shields.io/badge/iOS-DC143C?style=flat&logo=ios&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=black">
-	<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=black">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black"> 
+	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white">
+	<img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white">
+	<br/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
 </div>
 
 <br/>
